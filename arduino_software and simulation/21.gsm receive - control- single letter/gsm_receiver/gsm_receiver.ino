@@ -52,22 +52,22 @@ void Gsm_initialize()
          if(receive == 't')
            { 
                         
-             lcd.print("SD");
+             lcd.print("HE");
            }
            if(receive == 's')
            {
                      
-            lcd.print("PRO");
+            lcd.print("LLO");
            }
             if(receive == 'v')
            {
                       
-            lcd.print("SOLU");
+            lcd.print("WORL");
            }
              if(receive == 'c')
            {
                       
-            lcd.print("TIONS");
+            lcd.print("D");
            }
                                                    
         }
