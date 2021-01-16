@@ -30,7 +30,7 @@ void loop()
    //  delay(500);
 
      Serial.print("AT+CMGS=\"");
-     Serial.print("9071008822");
+     Serial.print("8754090958");
      Serial.println("\"");
      Serial.write(0X0D);
      Serial.write(0X0A);
