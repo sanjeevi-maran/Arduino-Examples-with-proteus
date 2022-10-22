@@ -6,5 +6,5 @@ void setup()
 
 void loop() 
 {
-Serial.print("HAI SDPRO");  //char send
+Serial.print("HELLO WORLD");  //char send
 }
