@@ -24,7 +24,7 @@ pinMode (A2 , OUTPUT);
 pinMode (A3 , OUTPUT);
 
  lcd.setCursor (0,0);
- lcd.print("SDPRO NUM DISPLY");
+ lcd.print("NUM DISPLY");
    
 }
 
