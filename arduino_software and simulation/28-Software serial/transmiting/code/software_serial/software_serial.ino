@@ -19,8 +19,8 @@ void setup()
 
 void loop() 
 {
-  secondserial.print ("SANJU"); 
-  thirdserial.print  ("SD"); 
-  fourthserial.print ("PRO"); 
+  secondserial.print ("HELLO"); 
+  thirdserial.print  ("WORLD"); 
+  fourthserial.print ("SEND"); 
 
 }
