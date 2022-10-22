@@ -7,7 +7,7 @@ LiquidCrystal lcd (13,12,4,5,6,7);
 void setup()
 {
   lcd.begin (16,2); //16 char 2 row.16*2 lcd
-  lcd.print("I AM SDPRO solution");
+  lcd.print("HELLO WORLD");
 }
 
 void loop()
